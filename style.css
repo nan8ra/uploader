@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: azure;
+}
+
+.main-area {
+    width: 960px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+}
+.main-area ul {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8F8F8F;
+}
+
+.deck {
+    width: 400px;
+    height: 400px;
+}
+.start {
+    width: 200px;
+    height: 200px;
+}
