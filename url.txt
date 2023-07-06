@@ -1,0 +1,6 @@
+https://nan8ra.github.io/uploader/accessory/
+  https://nan8ra.github.io/uploader/accessory/null.png
+  https://nan8ra.github.io/uploader/accessory/sle01.png
+https://nan8ra.github.io/uploader/deck/
+  
+https://nan8ra.github.io/uploader/start/
